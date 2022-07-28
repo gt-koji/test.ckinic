@@ -1,1 +1,1 @@
-# test.ckinic
+# test.clinic
